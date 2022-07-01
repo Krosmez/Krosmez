@@ -1,6 +1,9 @@
 ### Hi, welcome to my profile 😊
-[codewars]
-[codewars]: https://www.codewars.com/users/Krosmez/badges/micro
+
+I'm currently looking for a position as a Web Delevoper !
+
+Feel free to contact me on :
+[LinkedIn](https://www.linkedin.com/in/jonathan-maison-aa9503115/)
 
 
 <!--
