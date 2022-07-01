@@ -1,6 +1,6 @@
 ### Hi, welcome to my profile 😊
-
-https://www.codewars.com/users/Krosmez/badges/micro
+[codewars]
+[codewars]: https://www.codewars.com/users/Krosmez/badges/micro
 
 
 <!--
