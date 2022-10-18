@@ -1,6 +1,6 @@
 ### Hi, welcome to my profile 😊
 
-I'm currently looking for a position as a Web Delevoper !
+I'm currently working as a Web Developer !
 
 Feel free to contact me on :
 [LinkedIn](https://www.linkedin.com/in/jonathan-maison-aa9503115/)
