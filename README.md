@@ -1,6 +1,6 @@
 ### Hi, welcome to my profile 😊
 
-I'm currently working as a Web Developer !
+I'm currently working as a Java Developer !
 
 Feel free to contact me on :
 [LinkedIn](https://www.linkedin.com/in/jonathan-maison-aa9503115/)
